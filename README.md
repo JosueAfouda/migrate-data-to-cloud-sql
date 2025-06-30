@@ -28,3 +28,4 @@ Dans ce tutoriel, vous apprendrez à importer des données depuis des fichiers t
 
 ---
 
+Article Medium de ce tutoriel : https://medium.com/@afouda.josue/how-to-load-and-analyze-data-in-google-cloud-sql-80c2927e3fa0
