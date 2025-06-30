@@ -1,5 +1,7 @@
 # **Comment charger et analyser des données dans Google Cloud SQL ?**
 
+Cliquer sur l'image pour regarder la vidéo :
+
 [![Migrer des données de fichiers locaux CSV vers Google Cloud SQL - Tutoriel complet étape par étape](https://img.youtube.com/vi/B3_fk0QwHG8/hqdefault.jpg)](https://www.youtube.com/watch?v=B3_fk0QwHG8)
 
 
